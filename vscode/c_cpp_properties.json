@@ -4,7 +4,7 @@
           "name": "Mac",
           "includePath": [
              "${workspaceFolder}/**",
-             "/usr/local/include"  // Path to your FLTK installation
+             "/opt/homebrew/Cellar/fltk/1.3.9/include"  // FLTK include path
           ],
           "defines": [],
           "compilerPath": "/usr/bin/clang",
