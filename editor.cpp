@@ -2,6 +2,8 @@
 #include <FL/Fl.H>
 #include <FL/fl_ask.H>
 
+//we will get back to this project
+
 EditorWindow::EditorWindow(int w, int h, const char* title) : Fl_Double_Window(w, h, title) {
     // Menu bar
     Fl_Menu_Item menuitems[] = {
