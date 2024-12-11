@@ -2,7 +2,7 @@
 #include <FL/Fl.H>
 #include <FL/fl_ask.H>
 
-//we will get back to this project
+//we will get back to this project soon
 
 EditorWindow::EditorWindow(int w, int h, const char* title) : Fl_Double_Window(w, h, title) {
     // Menu bar
