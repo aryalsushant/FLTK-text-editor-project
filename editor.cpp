@@ -3,7 +3,7 @@
 #include <FL/fl_ask.H>
 
 //we will get back to this project soon
-//for now lets show git active
+//for now lets show git active okay
 
 EditorWindow::EditorWindow(int w, int h, const char* title) : Fl_Double_Window(w, h, title) {
     // Menu bar
