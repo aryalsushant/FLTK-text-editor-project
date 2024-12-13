@@ -3,7 +3,7 @@
 #include <FL/fl_ask.H>
 
 //we will get back to this project soon
-//for now lets show git active okay
+//for now lets show git active oka
 
 EditorWindow::EditorWindow(int w, int h, const char* title) : Fl_Double_Window(w, h, title) {
     // Menu bar
